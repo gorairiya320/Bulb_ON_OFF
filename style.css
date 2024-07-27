@@ -1,0 +1,37 @@
+/*div{
+    height: 340;
+    width: 240;
+    border: 2px solid black;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}*/
+h4{
+    text-align: center;
+}
+/*div{
+   display: flex;
+   justify-content: space-evenly;
+   gap: 50px;
+   
+}*/
+#btn{
+
+height:60px ;
+width: 100px;
+border-radius: 1rem;
+background-color: green;
+margin-left: 500px;
+}
+.bulb{
+    margin-top: 50px;
+    margin-left: 440px;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+
+    background: url("off.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+}
